@@ -124,9 +124,6 @@ transform-origin: top;
 }
 
 #navbarMenu.active {
-  /* display: block; */
-  /* transform-origin: top; */
-  /* top: 5rem; */
   margin-top: 250px;
 }
 
@@ -145,8 +142,6 @@ transform-origin: top;
 #navbarMenu1 li:nth-child(2),
 #navbarMenu1 li:nth-child(3) {
     margin-left: auto;
-
-
 }
 }
 
@@ -322,6 +317,7 @@ left: 100PX;
   flex: 1;
   min-width: 300px; 
   margin: 10px;
+
 }
 
 
@@ -361,6 +357,7 @@ left: 100PX;
       width: 100%;
       height: auto;
       margin: 0; 
+ 
   }
 }
 
